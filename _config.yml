@@ -1,7 +1,7 @@
 name: School Website
 favicon: null
-layout_spectrum: 0.44442684296518564
-typography_spectrum: 0.7673652877565473
+layout_spectrum: 1
+typography_spectrum: 0.90087
 cta:
   domain: null
   bucket: null
